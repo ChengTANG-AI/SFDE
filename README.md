@@ -1,4 +1,4 @@
 # SFDE
-Scale-Free DE algorithm
+Scale-Free Differential Evolution algorithm
 
 Matlab
